@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./xenophaniscolop01karsgoog_0007.png"; bbox 0 0 2842 4884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 182 1968 899 2081">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 182 1968 899 2081">
+     <span class='ocr_line' id='line_1_1' title="bbox 182 1968 899 2081; baseline 0.014 -10"><span class='ocrx_word' id='word_1_1' title='bbox 182 2021 188 2042; x_wconf 60' lang='grc'><strong>&gt;</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 303 1968 899 2081; x_wconf 83' lang='lat' dir='ltr'>PHILOSOPHORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 217 2281 1163 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 217 2281 1163 2368">
+     <span class='ocr_line' id='line_1_2' title="bbox 217 2281 1163 2368; baseline 0.004 -3"><span class='ocrx_word' id='word_1_3' title='bbox 217 2281 617 2367; x_wconf 80' lang='lat' dir='ltr'>GRAECORUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 679 2281 988 2368; x_wconf 83' lang='lat' dir='ltr'><strong>VETERUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1134 2330 1163 2346; x_wconf 90' lang='lat'><strong>-·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 348 2580 869 2764">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 348 2489 869 2764">
+     <span class='ocr_line' id='line_1_3' title="bbox 348 2580 869 2764; baseline -0.01 -40"><span class='ocrx_word' id='word_1_6' title='bbox 348 2580 869 2764; x_wconf 74' lang='lat' dir='ltr'><strong>REuQfflAss.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1426 4884">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1426 4884">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1426 4884; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1426 4884; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
